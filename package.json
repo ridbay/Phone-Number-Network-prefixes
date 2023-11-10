@@ -1,6 +1,6 @@
 {
   "name": "phone_number_prefixes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that returns all Nigeria Phone Number Prefixes and Network names.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
