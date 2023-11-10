@@ -42,4 +42,4 @@ The following methods are available with this package
 
 #### Want to contribute?
 
-Contributions are welcome! Kindly refer to the [contribution guidelines](https://github.com/ridbay/Phone-Number-Network-prefixes/blob/main/CONTRIBUTING.md).
+Contributions are welcome! Kindly refer to the [contribution guidelines](https://github.com/ridbay/Phone-Number-Network-prefixes/blob/main/CONTRIBUTING.md)
