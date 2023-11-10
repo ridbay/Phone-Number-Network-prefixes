@@ -16,30 +16,25 @@ This package can be installed with `npm` or `yarn`.
 Using `npm`,
 
 ```
-npm install quidax-package
+npm install phone_number_prefixes
 ```
 
 Using `yarn`,
 
 ```bash
-yarn add quidax-package
+yarn add phone_number_prefixes
 ```
 
 ## Usage
 
 ```js
-const Quidax = require('quidax-package'); // JavaScript
-import Quidax from 'quidax-package'; // Typescript
+const PhoneNumberPrefixes = require('phone_number_prefixes'); // JavaScript
+import PhoneNumberPrefixes from 'phone_number_prefixes'; // Typescript
 ```
-
-Instantiate the Quidax class
 
 ```js
-const quidax = new Quidax(PRIVATE_KEY);
-```
 
-- For more information about the services exposed by the Package, please refer to the [documentation](https://docs.quidax.com/reference/introduction-user-accounts).
-- Be sure to keep your API Credentials securely in [environment variables](https://www.twilio.com/blog/working-with-environment-variables-in-node-js-html).
+```
 
 ## Available Methods exposed by the Package
 
